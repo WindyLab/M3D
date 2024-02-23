@@ -1,5 +1,5 @@
 # M3D
-This is the repository for the paper "Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network".This paper has been officially accepted by IEEE Transactions on Automation Science and Engineering.
+This is the repository for the paper "Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network". This paper has been officially accepted by IEEE Transactions on Automation Science and Engineering.
 
 The link to the dataset present in the paper: https://westlakeu-my.sharepoint.com/:f:/g/personal/zhao_lab_westlake_edu_cn/Er96hmAJKZdKrjlBAMPLuFoBp3Gnuwy7k0Phqv8RZkO5sw?e=6FIzeZ.
 
