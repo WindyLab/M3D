@@ -16,7 +16,7 @@
 
 This is the repository for the paper "Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network". This paper has been officially accepted by **IEEE Transactions on Automation Science and Engineering**.
 
-This paper benchmarks the cross-domain MAV detection problem. We first propose a **Multi-MAV-Multi-Domain (M3D)** dataset and construct a novel domain adaptive MAV detection benchmark consisting of three representative domain adaptation tasks, i.e., simulation-to-real adaptation, cross-scene adaptation, and cross-camera adaptation. Moreover, we propose a novel noise suppression network with a prior-guided curriculum learning module, a masked copypaste augmentation module, and a large-to-small model training procedure. 
+This paper benchmarks the cross-domain MAV detection problem. We first propose a **Multi-MAV-Multi-Domain (M3D)** dataset and construct a novel domain adaptive MAV detection benchmark consisting of three representative domain adaptation tasks, i.e., simulation-to-real adaptation, cross-scene adaptation, and cross-camera adaptation. Moreover, we propose a novel **noise suppression network** with a prior-guided curriculum learning module, a masked copypaste augmentation module, and a large-to-small model training procedure. 
 
 ### Framework
 The framework of each training stage in the noise suppression network.
@@ -26,7 +26,7 @@ The framework of each training stage in the noise suppression network.
 
 The link to the dataset present in the paper: [Dataset](https://westlakeu-my.sharepoint.com/:f:/g/personal/zhao_lab_westlake_edu_cn/Er96hmAJKZdKrjlBAMPLuFoBp3Gnuwy7k0Phqv8RZkO5sw?e=6FIzeZ)
 
-This dataset includes the simulation images and realistic images. All the labels are in the YOLO format. Please refer https://github.com/ultralytics/yolov5 for details. 
+This dataset includes simulation images and realistic images. All the labels are in the YOLO format. Please refer https://github.com/ultralytics/yolov5 for details. 
 
 ![Weixin Image_20240227145445](https://github.com/WestlakeIntelligentRobotics/M3D/assets/125523389/aa3defd6-5f15-4739-b607-fba9259aac4b)
 <p align="center">
