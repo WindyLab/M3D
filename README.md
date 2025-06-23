@@ -14,7 +14,7 @@
 
 This is the repository for the paper "Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network". This paper has been officially accepted by **IEEE Transactions on Automation Science and Engineering**.
 
-This paper benchmarks the cross-domain MAV detection problem. We first propose a **Multi-MAV-Multi-Domain (M3D)** dataset and construct a novel domain adaptive MAV detection benchmark consisting of three representative domain adaptation tasks, i.e., simulation-to-real adaptation, cross-scene adaptation, and cross-camera adaptation. Moreover, we propose a novel **noise suppression network** with a prior-guided curriculum learning module, a masked copypaste augmentation module, and a large-to-small model training procedure. 
+This paper benchmarks the cross-domain MAV detection problem. We first propose a **Multi-MAV-Multi-Domain (M3D)** dataset and construct a novel domain adaptive MAV detection benchmark consisting of three representative domain adaptation tasks, i.e., simulation-to-real adaptation, cross-scene adaptation, and cross-camera adaptation. Moreover, we propose a novel **noise suppression network** with a prior-guided curriculum learning module, a masked copy-paste augmentation module, and a large-to-small model training procedure. 
 
 ### Framework
 The framework of each training stage in the noise suppression network.
